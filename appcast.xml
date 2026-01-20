@@ -6,6 +6,28 @@
         <description>Stanza App Updates</description>
         
         <!-- Version 1.4.1 - Build 10 -->
+        <!-- Version 1.4.2 - Build 11 -->
+    <item>
+        <title>Version 1.4.2</title>
+        <pubDate>Wed, 21 Jan 2026 00:45:21 +0530</pubDate>
+        <sparkle:version>11</sparkle:version>
+        <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+            <h2>What's New in Version 1.4.2</h2>
+            <ul>
+                <li>Update release notes here</li>
+            </ul>
+        ]]></description>
+        <enclosure 
+            url="https://github.com/stanza-app/stanza-mac-app-releases/releases/download/v1.4.2/Stanza-v1.4.2.zip"
+            sparkle:edSignature="69m6s+tjCoCAZ27Yo3dDyRReSAhzk861AhamkaEJqenSV0dln7FNcXvKjrUYLxWl6pmP4SbaiCZqEbna73iIDA=="
+            length="2537609"
+            type="application/octet-stream"
+        />
+    </item>
+
+
     <item>
         <title>Version 1.4.1</title>
         <pubDate>Sat, 17 Jan 2026 06:03:52 +0530</pubDate>
