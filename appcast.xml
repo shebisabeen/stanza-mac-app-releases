@@ -17,7 +17,8 @@
         <description><![CDATA[
             <h2>What's New in Version 1.4.3</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>Set tone for the text</li>
+                <li>Settings improvements</li>
             </ul>
         ]]></description>
         <enclosure 
@@ -38,7 +39,10 @@
         <description><![CDATA[
             <h2>What's New in Version 1.4.2</h2>
             <ul>
-                <li>Update release notes here</li>
+                <li>Stanza cloud</li>
+                <li>Set language</li>
+                <li>Improved license details view</li>
+                <li>Settings improvements</li>
             </ul>
         ]]></description>
         <enclosure 
