@@ -11,6 +11,28 @@
 
 
         <!-- Version 1.5.0 - Build 13 -->
+        <!-- Version 1.5.1 - Build 14 -->
+    <item>
+        <title>Version 1.5.1</title>
+        <pubDate>Mon, 26 Jan 2026 10:40:29 +0530</pubDate>
+        <sparkle:version>14</sparkle:version>
+        <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+            <h2>What's New in Version 1.5.1</h2>
+            <ul>
+                <li>Update release notes here</li>
+            </ul>
+        ]]></description>
+        <enclosure 
+            url="https://github.com/stanza-app/stanza-mac-app-releases/releases/download/v1.5.1/Stanza-v1.5.1.dmg"
+            sparkle:edSignature="9XQF+zYx5qFLhNLGmbHX7AjBr1hEsOG1GOfyQV8F3FM6zvf8YbhBW9WVbMb/3wJjRBiQyftinninsKHTkHCyBg=="
+            length="2659400"
+            type="application/octet-stream"
+        />
+    </item>
+
+
     <item>
         <title>Version 1.5.0</title>
         <pubDate>Sun, 25 Jan 2026 19:27:01 +0530</pubDate>
